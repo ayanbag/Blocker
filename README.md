@@ -8,3 +8,4 @@
     </sub>
     Blocker
 </h1>
+**An extension for Chromium-based browsers that disables video autoplaying and helps to block the Adware in websites**
