@@ -1,2 +1,10 @@
-# Blocker
-A Chrome Extension to block Advertisement sites as well as helps to stop autoplay in Chrome.
+<h1 align="center">
+    <sub>
+        <img
+            src="https://raw.githubusercontent.com/Eloston/disable-html5-autoplay/master/images/adblock-icon.png"
+            width="38"
+            height="38">
+        </img>
+    </sub>
+    Disable HTML5 Autoplay
+</h1>
