@@ -22,6 +22,7 @@ var url=[
     "infolinks.com",
     "popcash.net",
     "go2cloud.org"
+    //please add more
 ];
 
 blocked_domains=url.map(url_check);
