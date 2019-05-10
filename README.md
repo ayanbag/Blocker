@@ -1,5 +1,5 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://www.iamayan.me)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.iamayan.me)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](http://ayanbag.github.io)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](http://ayanbag.github.io)
 
 <h1 align="center">
     <sub>
